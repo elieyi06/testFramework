@@ -40,6 +40,6 @@ public class NavbarPage {
         Commonds.Click(getIconSearch());
         Commonds.SendKeysWithAction(getInputSearch(),str);
         Commonds.Click(getBtnSearch());
-        new WebDriverWait(CommonTest.getDriver(), Duration.ofSeconds(30)).until(ExpectedConditions.titleContains(str.toLowerCase()));
+        new WebDriverWait(CommonTest.getDriver(), Duration.ofSeconds(30)).until(ExpectedConditions.titleContains(str));
     }
 }

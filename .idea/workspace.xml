@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd4655a4-86c0-414e-9170-b6c74557b4a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testinity/airbnbUI/core/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testinity/airbnbUI/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testinity/airbnbUI/pages/NavbarPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testinity/airbnbUI/tests/HomeTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testinity/framework/core/CommonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/testinity/framework/core/Commonds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd4655a4-86c0-414e-9170-b6c74557b4a5" name="Changes" comment="first test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669932032444</updated>
-      <workItem from="1669932034200" duration="614000" />
+      <workItem from="1669932034200" duration="918000" />
     </task>
+    <task id="LOCAL-00001" summary="first test">
+      <created>1669932742215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669932742215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first test" />
+    <option name="LAST_COMMIT_MESSAGE" value="first test" />
   </component>
 </project>
